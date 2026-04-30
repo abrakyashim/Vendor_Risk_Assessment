@@ -26,13 +26,20 @@ The assessment evaluates CloudDocs AI, a fictional cloud-based document storage 
 - Absence of SOC 2 Type II certification
 - Inadequate disaster recovery testing
 
-## Outcome
-The vendor received an overall risk rating of Medium to High and was recommended for conditional approval pending remediation.
-
 ## Skills Demonstrated
-- Third-Party Risk Management
-- Cybersecurity Risk Assessment
-- Risk Register Development
-- Business Impact Analysis
-- Executive Reporting
-- Governance and Compliance Alignment
+
+- Third-Party Vendor Risk Assessment
+- Risk Identification and Analysis
+- Control Mapping (NIST CSF, ISO 27001)
+- Control Testing and Validation
+- Policy Development (Access Control Policy)
+
+## Tools Used
+
+- Google Sheets / Excel
+- Google Docs
+- GitHub (Documentation & Version Control)
+
+## Key Outcome
+
+This project demonstrates the full GRC lifecycle from identifying risks to implementing and testing controls, and developing policies aligned with industry standards.
